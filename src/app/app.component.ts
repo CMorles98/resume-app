@@ -15,7 +15,7 @@ import AOS from 'aos';
   ]
 })
 export class AppComponent {
-  title = 'cmorles-app';
+  title = 'resume-app';
 
   constructor(){
     AOS.init()
